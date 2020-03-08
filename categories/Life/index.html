@@ -132,6 +132,11 @@
     <a href="/about/" rel="section"><i class="fa fa-fw fa-user"></i>关于</a>
 
   </li>
+        <li class="menu-item menu-item-music">
+
+    <a href="/music" rel="section"><i class="fa fa-fw fa-music"></i>music</a>
+
+  </li>
         <li class="menu-item menu-item-tags">
 
     <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
@@ -369,7 +374,7 @@
 
 
 <div id="music163player">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=200 height=80 src="//music.163.com/outchain/player?type=2&id=37782740&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=200 height=80 src="//music.163.com/outchain/player?type=2&id=37782740&auto=1&height=66"></iframe>
 <div>
 
       </div>
@@ -474,7 +479,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       notify     : false,
       appId      : 'GK6bJyYeUWkEaWdo1T55bgAi-MdYXbMMI',
       appKey     : 'eMjxXFE7XSiSxjAGM7k9MxEJ',
-      placeholder: "here",
+      placeholder: "留个言，江湖再见",
       avatar     : 'mm',
       meta       : guest,
       pageSize   : '10' || 10,
@@ -487,7 +492,31 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
   }, window.Valine);
 });
 </script>
-
+<script src="//sdk.jinrishici.com/v2/browser/jinrishici.js"></script>
+<script>
+  console.log('今日诗词 - 开始加载...');
+  jinrishici.load((result) => {
+    let jrsc = document.getElementById('jrsc');
+    if (jrsc) {
+      console.log('今日诗词 - 标签获取成功.');
+    } else {
+      console.log('今日诗词 - 标签获取失败!');
+      return;
+    }
+    const data = result.data;
+    let author = data.origin.author;
+    let title = '《' + data.origin.title + '》';
+    let content = data.content.substr(0, data.content.length - 1);
+    let dynasty = data.origin.dynasty.substr(0, data.origin.dynasty.length - 1);
+    jrsc.innerText = content + ' @ ' + dynasty + '·' + author + title;
+    console.log('今日诗词 - 载入完毕.');
+    if (data.origin.author == '李白') {
+      let audio = document.createElement("audio");
+      audio.src = "/ding.mp3";
+      audio.play();
+    }
+  });
+</script>
   
   <script color="0,0,255" opacity="0.5" zIndex="-1" count="99" src="https://cdn.jsdelivr.net/npm/canvas-nest.js@1/dist/canvas-nest.js"></script>
 

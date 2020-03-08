@@ -1209,7 +1209,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #521863;
+  background: #5cffc1;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2443,4 +2443,9 @@ ul.breadcrumb li + li:last-child {
 }
 .back-to-top.back-to-top-on {
   margin-top: 16px;
+}
+#jrsc {
+  font-style: italic;
+  font-size: initial;
+  color: #474352;
 }
