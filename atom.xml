@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>安于长情ღ࿐稚于最初</title>
-  
+  <icon>https://lovecc1314.com/icon.png</icon>
   <subtitle>记录生活，记录你</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lovecc1314.com/"/>
-  <updated>2020-05-17T12:46:41.661Z</updated>
+  <updated>2020-05-20T09:19:03.877Z</updated>
   <id>https://lovecc1314.com/</id>
   
   <author>
@@ -17,22 +17,50 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>520</title>
+    <link href="https://lovecc1314.com/2020/05/20/520/"/>
+    <id>https://lovecc1314.com/2020/05/20/520/</id>
+    <published>2020-05-20T08:10:05.000Z</published>
+    <updated>2020-05-20T09:19:03.877Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;屈于温柔，&lt;/p&gt;
+&lt;p&gt;你是温柔。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Diary" scheme="https://lovecc1314.com/categories/Diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Dream</title>
     <link href="https://lovecc1314.com/2020/05/17/Logo/"/>
     <id>https://lovecc1314.com/2020/05/17/Logo/</id>
     <published>2020-05-17T09:21:55.000Z</published>
     <updated>2020-05-17T12:46:41.661Z</updated>
     
-    <content type="html"><![CDATA[<p>最近每天晚上都会做好多梦是怎么回事？</p><p>难道是要开学了？！</p><p>哇哦！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;最近每天晚上都会做好多梦是怎么回事？&lt;/p&gt;
+        
+        
+          &lt;p&gt;最近每天晚上都会做好多梦是怎么回事？&lt;/p&gt;
 &lt;p&gt;难道是要开学了？！&lt;/p&gt;
 &lt;p&gt;哇哦！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -50,15 +78,15 @@
     <published>2020-05-15T09:14:20.000Z</published>
     <updated>2020-05-15T12:19:31.553Z</updated>
     
-    <content type="html"><![CDATA[<p>哦吼？</p><p><img src="/images/Lovebest.gif" alt=""></p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;哦吼？&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/Lovebest.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
+        
+        
+          &lt;p&gt;哦吼？&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Lovebest.gif&quot;
+        
       
     
     </summary>
@@ -76,15 +104,16 @@
     <published>2020-05-13T08:03:13.000Z</published>
     <updated>2020-05-13T09:59:31.807Z</updated>
     
-    <content type="html"><![CDATA[<p>裙子？</p><p>什么裙子！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;裙子？&lt;/p&gt;
+        
+        
+          &lt;p&gt;裙子？&lt;/p&gt;
 &lt;p&gt;什么裙子！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -102,13 +131,13 @@
     <published>2020-05-12T11:25:03.000Z</published>
     <updated>2020-05-12T11:41:10.945Z</updated>
     
-    <content type="html"><![CDATA[<p>结婚之前不管多忙</p><p>总会想起她在心上</p><p>微笑就会偷偷的爬上脸庞</p><p>也有曾经整个晚上</p><p>手牵着手四处游荡</p><p>站在海边你的头发我的肩膀</p><p>结婚之后更加努力工作</p><p>变得越来越忙</p><p>我总以为这一切就是我理想</p><p>可老婆却总是一人</p><p>孤零零的等在家里</p><p>她的心情我却从没去想</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">不曾记得，世间有种结局，叫求不得。</span><br><span class="line">多陪爱你的人。</span><br></pre></td></tr></table></figure>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;结婚之前不管多忙&lt;/p&gt;
+        
+        
+          &lt;p&gt;结婚之前不管多忙&lt;/p&gt;
 &lt;p&gt;总会想起她在心上&lt;/p&gt;
 &lt;p&gt;微笑就会偷偷的爬上脸庞&lt;/p&gt;
 &lt;p&gt;也有曾经整个晚上&lt;/p&gt;
@@ -117,6 +146,7 @@
 &lt;p&gt;结婚之后更加努力工作&lt;/p&gt;
 &lt;p&gt;变得越来越忙&lt;/p&gt;
 &lt;p&gt;我总
+        
       
     
     </summary>
@@ -136,19 +166,19 @@
     <published>2020-05-09T02:48:28.000Z</published>
     <updated>2020-05-12T11:45:01.415Z</updated>
     
-    <content type="html"><![CDATA[<p>春暖花开，</p><p>万物复苏，</p><p>让我们一起，</p><p>度过无数年头。</p><center class="half">        <img src="../images/year.jfif" width="600"/>    </center>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;春暖花开，&lt;/p&gt;
+        
+        
+          &lt;p&gt;春暖花开，&lt;/p&gt;
 &lt;p&gt;万物复苏，&lt;/p&gt;
 &lt;p&gt;让我们一起，&lt;/p&gt;
 &lt;p&gt;度过无数年头。&lt;/p&gt;
 &lt;center class=&quot;half&quot;&gt;    
-    &lt;img src=&quot;../images/year.jfif&quot; width=&quot;600&quot;/&gt;    
-&lt;/cent
+    &lt;img src=&quot;../images/year.jfif&quot; width=&quot;600&quot;/&gt;   
+        
       
     
     </summary>
@@ -166,16 +196,17 @@
     <published>2020-05-06T10:52:09.000Z</published>
     <updated>2020-05-09T03:08:40.259Z</updated>
     
-    <content type="html"><![CDATA[<p>放假前加班，</p><p>放假后加班，</p><p>惨！</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Work is still on holiday, this is a problem.----By me.</span><br></pre></td></tr></table></figure>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;放假前加班，&lt;/p&gt;
+        
+        
+          &lt;p&gt;放假前加班，&lt;/p&gt;
 &lt;p&gt;放假后加班，&lt;/p&gt;
 &lt;p&gt;惨！&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pr
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
       
     
     </summary>
@@ -195,16 +226,17 @@
     <published>2020-05-04T13:17:09.000Z</published>
     <updated>2020-05-04T13:22:21.034Z</updated>
     
-    <content type="html"><![CDATA[<p>青年节，</p><p>不放假，</p><p>哼。</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;青年节，&lt;/p&gt;
+        
+        
+          &lt;p&gt;青年节，&lt;/p&gt;
 &lt;p&gt;不放假，&lt;/p&gt;
 &lt;p&gt;哼。&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -222,17 +254,18 @@
     <published>2020-05-03T09:23:36.000Z</published>
     <updated>2020-05-03T09:29:13.386Z</updated>
     
-    <content type="html"><![CDATA[<p>给你讲个故事，</p><p>这个故事很长。</p><p>我长话短说，</p><p>我想你了。</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;给你讲个故事，&lt;/p&gt;
+        
+        
+          &lt;p&gt;给你讲个故事，&lt;/p&gt;
 &lt;p&gt;这个故事很长。&lt;/p&gt;
 &lt;p&gt;我长话短说，&lt;/p&gt;
 &lt;p&gt;我想你了。&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -252,15 +285,16 @@
     <published>2020-05-01T13:29:20.000Z</published>
     <updated>2020-05-01T13:31:50.952Z</updated>
     
-    <content type="html"><![CDATA[<p>默默视频，看着贝贝认真工作的亚子。</p><p>毕竟，，，劳动节嘛！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;默默视频，看着贝贝认真工作的亚子。&lt;/p&gt;
+        
+        
+          &lt;p&gt;默默视频，看着贝贝认真工作的亚子。&lt;/p&gt;
 &lt;p&gt;毕竟，，，劳动节嘛！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -278,15 +312,15 @@
     <published>2020-04-29T11:05:24.000Z</published>
     <updated>2020-04-29T11:08:35.280Z</updated>
     
-    <content type="html"><![CDATA[<p>为了这个五一，天气也是蛮拼的。</p><p><img src="/images/weather.jpg" alt=""></p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;为了这个五一，天气也是蛮拼的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/weather.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
+        
+        
+          &lt;p&gt;为了这个五一，天气也是蛮拼的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/weather.jpg&quot;
+        
       
     
     </summary>
@@ -304,16 +338,17 @@
     <published>2020-04-28T11:13:08.000Z</published>
     <updated>2020-05-03T02:32:27.813Z</updated>
     
-    <content type="html"><![CDATA[<p>身心俱疲，心力交瘁。</p><p>我的贝贝呀，</p><p>你还好么。</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;身心俱疲，心力交瘁。&lt;/p&gt;
+        
+        
+          &lt;p&gt;身心俱疲，心力交瘁。&lt;/p&gt;
 &lt;p&gt;我的贝贝呀，&lt;/p&gt;
 &lt;p&gt;你还好么。&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -333,18 +368,19 @@
     <published>2020-04-26T08:55:07.000Z</published>
     <updated>2020-04-26T08:57:26.575Z</updated>
     
-    <content type="html"><![CDATA[<p>2020年4月26日下午，</p><p>3℃，</p><p>我这里没有春天，</p><p>也没有你，</p><p>哭泣！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;2020年4月26日下午，&lt;/p&gt;
+        
+        
+          &lt;p&gt;2020年4月26日下午，&lt;/p&gt;
 &lt;p&gt;3℃，&lt;/p&gt;
 &lt;p&gt;我这里没有春天，&lt;/p&gt;
 &lt;p&gt;也没有你，&lt;/p&gt;
 &lt;p&gt;哭泣！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -362,16 +398,17 @@
     <published>2020-04-24T13:01:07.000Z</published>
     <updated>2020-04-26T08:50:49.125Z</updated>
     
-    <content type="html"><![CDATA[<p>爱你哦，每次你一开心就就最好了！</p><hr><p>恕我直言，贴膏药不是BUG，你才是BUG！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;爱你哦，每次你一开心就就最好了！&lt;/p&gt;
+        
+        
+          &lt;p&gt;爱你哦，每次你一开心就就最好了！&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;恕我直言，贴膏药不是BUG，你才是BUG！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -389,17 +426,17 @@
     <published>2020-04-23T12:52:13.000Z</published>
     <updated>2020-04-23T12:59:44.232Z</updated>
     
-    <content type="html"><![CDATA[<p>Happy Django！</p><p>Happy Linux！</p><p>Happy Research！</p><p>Miss Beibei！！！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;Happy Django！&lt;/p&gt;
+        
+        
+          &lt;p&gt;Happy Django！&lt;/p&gt;
 &lt;p&gt;Happy Linux！&lt;/p&gt;
 &lt;p&gt;Happy Research！&lt;/p&gt;
-&lt;p&gt;Miss Beibei！！！&lt;/p&gt;
-
+&lt;p&gt;Miss
+        
       
     
     </summary>
@@ -417,16 +454,17 @@
     <published>2020-04-21T13:33:46.000Z</published>
     <updated>2020-04-21T13:39:13.776Z</updated>
     
-    <content type="html"><![CDATA[<p>$50大洋没了，树莓派没了，不过花钱不就是为了学习</p><hr><p>还有哄贝贝开心嘛！！！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;$50大洋没了，树莓派没了，不过花钱不就是为了学习&lt;/p&gt;
+        
+        
+          &lt;p&gt;$50大洋没了，树莓派没了，不过花钱不就是为了学习&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;还有哄贝贝开心嘛！！！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -446,15 +484,16 @@
     <published>2020-04-20T14:08:20.000Z</published>
     <updated>2020-04-20T14:12:13.669Z</updated>
     
-    <content type="html"><![CDATA[<p>好好的天气，怎么说变就变呢，这就零下了。</p><p>啥时候才能开学呢！！！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;好好的天气，怎么说变就变呢，这就零下了。&lt;/p&gt;
+        
+        
+          &lt;p&gt;好好的天气，怎么说变就变呢，这就零下了。&lt;/p&gt;
 &lt;p&gt;啥时候才能开学呢！！！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -472,14 +511,15 @@
     <published>2020-04-19T08:47:31.000Z</published>
     <updated>2020-04-19T13:09:31.962Z</updated>
     
-    <content type="html"><![CDATA[<p>下雨了，贝贝自己听着风雨可以睡着么，可怜。</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;下雨了，贝贝自己听着风雨可以睡着么，可怜。&lt;/p&gt;
+        
+        
+          &lt;p&gt;下雨了，贝贝自己听着风雨可以睡着么，可怜。&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -497,16 +537,17 @@
     <published>2020-04-16T13:15:14.000Z</published>
     <updated>2020-04-16T13:20:57.160Z</updated>
     
-    <content type="html"><![CDATA[<p>居然腾讯会议视频，什么神仙操作。</p><p>还截搞笑的图！！！</p><p>过分！</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;居然腾讯会议视频，什么神仙操作。&lt;/p&gt;
+        
+        
+          &lt;p&gt;居然腾讯会议视频，什么神仙操作。&lt;/p&gt;
 &lt;p&gt;还截搞笑的图！！！&lt;/p&gt;
 &lt;p&gt;过分！&lt;/p&gt;
 
+        
       
     
     </summary>
@@ -524,40 +565,15 @@
     <published>2020-04-15T05:15:35.000Z</published>
     <updated>2020-04-15T05:19:48.598Z</updated>
     
-    <content type="html"><![CDATA[<p>莫名喜感。</p><p><img src="/images/dia.jpg" alt=""></p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;莫名喜感。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/dia.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="Diary" scheme="https://lovecc1314.com/categories/Diary/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Ulcer</title>
-    <link href="https://lovecc1314.com/2020/04/13/Ulcer/"/>
-    <id>https://lovecc1314.com/2020/04/13/Ulcer/</id>
-    <published>2020-04-13T10:14:00.000Z</published>
-    <updated>2020-04-13T10:22:46.373Z</updated>
-    
-    <content type="html"><![CDATA[<p>都不让人省心，着急上火，我真裂开了…</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;都不让人省心，着急上火，我真裂开了…&lt;/p&gt;
-
+        
+        
+          &lt;p&gt;莫名喜感。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/dia.jpg&quot;
+        
       
     
     </summary>
